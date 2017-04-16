@@ -1,0 +1,8 @@
+digraph G{
+l0[label =  sin];
+l1[label = "+"];
+l2[label =  x];
+l3[label = 2];
+l0->l1->l2;
+l1->l3;
+}

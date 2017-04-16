@@ -1,0 +1,16 @@
+end
+push
+pop
+add
+sub
+mul
+Div
+mov
+push_x
+pop_x
+inc
+dec
+jmp
+jne
+je
+lea

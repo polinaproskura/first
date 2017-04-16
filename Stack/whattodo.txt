@@ -1,0 +1,5 @@
+push 5
+push 3
+lea 8
+pop
+end
